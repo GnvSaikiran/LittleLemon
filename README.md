@@ -1,2 +1,6 @@
 # LittleLemon
-Little Lemon backend project
+## API end points
+/api/menu
+/api/menu/{menuId}
+/api/booking/tables
+/api/booking/tables/{bookingId}
